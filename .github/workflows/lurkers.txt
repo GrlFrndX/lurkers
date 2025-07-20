@@ -1,0 +1,45 @@
+# daily login redeems: (redeem_name)
+# first/second/third redeems: [redeem_name]
+# redeem every amount of mins/hrs: <redeem_name::1h> or <redeem_name::30m>
+# <group:KissGroup:{OR} 30m::Give Streamer a Kiss::3h {OR} 30m::Hug Streamer::3h>
+
+# WIP: daily message: \message/
+# WIP: message every amount of mins/hrs: //message::1h\\ or //message::30m\\
+# WIP: ending message: /|message|\
+
+# WIP: nickname is @@@name@@@
+
+
+# {AND} for ANDING inside of brackets
+# {OR} for ORING inside of brackets (random selection)
+
+# WIP: nesting of {OR}s and {AND}s for example <[x1 or x2 or x3] {AND} [y1 or y2 or y3]>
+
+# 12 hours by default, if 12hrs had passed since a daily redeem it'll re-try, amongst other things
+- daily_checker: 12
+- minutely_checker: 1
+
+# femme_warlock
+DopeNessMonster @@@monster {OR} dope@@@
+Theeldestbro @@@eldest@@@
+SomniaVT <30m::IMP CHECK> @@@cutenia {OR} nia@@@
+SkepVtuber <30m::Streeeeeeeeeetch> @@@skep@@@
+sosavt @@@sosa@@@
+chimeramanticore
+QueenLilithVT @@@lilith@@@
+Mireya_Ocelot
+offbeatKIKI <30m::sign in> @@@kiki@@@
+JuneFembug
+SerafinaFell <1h30m::Give us a twirl!>
+EnderPeachLive
+deegee2009 [FIRST! {OR} 2nd! {OR} THIRD!] <30m::Moisten Up!::3h> @@@deeg@@@
+PossiblyAwesom
+Kana_Fuyuko @@@kana@@@
+LadyBeemer @@@beems@@@
+emmature_ <30m::TAKE THAT DEPRESSION!>
+AllisonBoballison <30m::Snoot Boop::3h> @@@mouse@@@
+naomi3984
+Ellie_is_Lost <30m::Self Care::3h> @@@ellie {OR} bear lady@@@
+meat <30m::BONK::3h>
+Meerkatmiki @@@miki@@@ [First {OR} Second] <30m::Headpats::3h>
+martindebuer
